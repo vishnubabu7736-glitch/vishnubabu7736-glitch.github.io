@@ -7,7 +7,7 @@ A clean, modern, responsive personal portfolio website.
 - style.css — styling and responsive layout
 
 ## Before publishing
-1. Add your final LinkedIn profile URL in `index.html`.
+1. Add your final LinkedIn profile URL in `iwww.linkedin.com/in/vishnu-babu-294671429ndex.html`.
 2. Replace the photo placeholder with your professional photo when ready.
 3. Add GitHub project links when your repositories are ready.
 4. Optionally add a PDF resume.
